@@ -1,0 +1,14 @@
+{
+  "todos": [
+    {
+      "id": "110ec58a-a0f2-4ac4-8393-c866d813b8d1",
+      "title": "App with BloC",
+      "isCompleted": false
+    },
+    {
+      "id": "110ec58a-a0f2-4ac4-8393-c866d813b8d2",
+      "title": "App connect APi",
+      "isCompleted": false
+    }
+  ]
+}
